@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
         "author": "Zahid Mahmood",
 		"description": "A project that does something awesome",
-		"keywords": [ "descriptive", "related", "words", "freecodecamp" ]
+		"keywords": [ "descriptive", "related", "words", "freecodecamp" ],
 	    "license": "MIT",
 	    "version": "0.0.1",
 	"dependencies": {
